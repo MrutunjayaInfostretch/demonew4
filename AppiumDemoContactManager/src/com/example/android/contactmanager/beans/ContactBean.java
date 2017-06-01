@@ -2,7 +2,7 @@ package com.example.android.contactmanager.beans;
 
 import com.qmetry.qaf.automation.data.BaseDataBean;
 import com.qmetry.qaf.automation.util.Randomizer;
-
+// I have commited the change 
 public class ContactBean extends BaseDataBean {
 	@Randomizer(length = 6)
 	private String name;
